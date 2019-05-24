@@ -1,0 +1,3 @@
+[submodule "profileui"]
+	path = profileui
+	url = https://git.heroku.com/profileui.git
