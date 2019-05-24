@@ -62,3 +62,7 @@ typings/
 
 # node environment files
 node_environment/*
+
+node_modules/*
+
+production/*
