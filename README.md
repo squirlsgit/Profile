@@ -1,2 +1,2 @@
 # Profile
-Career PRofile
+Career Profile
